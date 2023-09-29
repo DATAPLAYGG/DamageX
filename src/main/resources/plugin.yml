@@ -1,0 +1,12 @@
+name: DamageX
+version: 1.0.0
+author: RX5600XT
+description: damage multiplier
+
+main: rx5600xt.sxqe.damagex.Damage
+
+commands:
+  dmgset:
+    description: you know
+    usage: /dmgset <value>
+    permission: Damagex.set
